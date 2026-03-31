@@ -50,8 +50,8 @@ Atualiza a lista de usuários na tela
 
 A função deleteUsers(id):
 
-Envia uma requisição para remover o usuário pelo ID
-Atualiza a lista após a exclusão
+Envia uma requisição para remover o usuário pelo ID e Atualiza a lista após a exclusão
+
 🎨 Interface
 
 A interface é composta por:
